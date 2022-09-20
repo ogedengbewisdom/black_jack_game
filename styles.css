@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  margin: 50px;
+  background: darkgreen;
+  
+}
+
+#container {
+   
+    width: 100%;
+ 
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+
+h1 {
+    color: goldenrod;
+    margin: 0px;
+    padding: 20px;
+    font-size: 60px;
+}
+
+p {
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+}
+
+#message {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 145px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    cursor: pointer;
+    font-size: 20px;
+}
